@@ -35,12 +35,16 @@ main::-webkit-scrollbar {
 /* Styles for landing page (only those not provided by tailwindcss classes) */
 #__spacex-landing-page {
 	scroll-behavior: smooth;
-	scroll-snap-type: y mandatory;
+	scroll-snap-type: y proximity;
 }
 
 #__spacex-landing-page section {
 	scroll-snap-align: start;
 	scroll-snap-stop: always;
+}
+
+#__spacex-landing-page section:not(:first-child) {
+	scroll-snap-align: end;
 }
 
 #__banner {
