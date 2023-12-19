@@ -1,3 +1,5 @@
+import { FuseResult } from "fuse.js";
+
 export type category =
 	| "capsules"
 	| "cores"
@@ -76,4 +78,19 @@ export type spaceXData = {
 	landpads: landPadData[];
 	history: historyData[];
 	cores: coreData[];
+};
+export type MainAppProps = {
+	dataFetchStatus: "pending" | "failed" | "successful";
+	query: string;
+	setQuery: React.Dispatch<React.SetStateAction<string>>;
+	setCurrentCategory: React.Dispatch<React.SetStateAction<category>>;
+	searchResults: FuseResult<
+		capsuleData | landPadData | historyData | coreData | missionData
+	>[];
+	currentCategory: category;
+	setIsFiltersOpen: React.Dispatch<React.SetStateAction<boolean>>;
+	isFiltersOpen: boolean;
+	paginationData: [number, number];
+	data: spaceXData;
+	setPaginationData: React.Dispatch<React.SetStateAction<[number, number]>>;
 };
