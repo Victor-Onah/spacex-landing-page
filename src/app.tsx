@@ -59,7 +59,14 @@ function App() {
 	}, []);
 
 	useEffect(() => {
-		setPaginationData([1, Math.ceil(data[currentCategory].length / 10)]);
+		try {
+			setPaginationData([
+				1,
+				Math.ceil(data[currentCategory].length / 10)
+			]);
+		} catch (error) {
+			console.error(error);
+		}
 	}, [currentCategory]);
 	return (
 		<main id="__spacex-landing-page" className="h-[100vh] overflow-auto">
@@ -229,7 +236,7 @@ function App() {
 								</span>
 							) : dataFetchStatus === "successful" ? (
 								<div className="pt-8">
-									<div className="grid grid-cols-4 gap-4 max-w-5xl m-auto">
+									<div className="grid max-[400px]:grid-cols-1 max-[600px]:grid-cols-2 max-[840px]:grid-cols-3 grid-cols-4 gap-4 max-w-5xl m-auto">
 										{data[currentCategory]
 											.slice(
 												(paginationData[0] - 1) * 10,
