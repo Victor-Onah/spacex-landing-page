@@ -104,3 +104,11 @@ main::-webkit-scrollbar {
 	background-size: cover;
 	background-position: center center;
 }
+
+#__input-clear-btn {
+	transform: scale(0);
+}
+
+#__search-box:valid ~ #__input-clear-btn {
+	transform: scale(1);
+}

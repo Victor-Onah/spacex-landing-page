@@ -1,0 +1,2431 @@
+{
+	"missions": [
+		{
+			"mission_name": "Thaicom",
+			"mission_id": "9D1B7E0",
+			"manufacturers": ["Orbital ATK"],
+			"payload_ids": ["Thaicom 6", "Thaicom 8"],
+			"wikipedia": "https://en.wikipedia.org/wiki/Thaicom",
+			"website": "http://www.thaicom.net/en/satellites/overview",
+			"twitter": "https://twitter.com/thaicomplc",
+			"description": "Thaicom is the name of a series of communications satellites operated from Thailand, and also the name of Thaicom Public Company Limited, which is the company that owns and operates the Thaicom satellite fleet and other telecommunication businesses in Thailand and throughout the Asia-Pacific region. The satellite projects were named Thaicom by the King of Thailand, His Majesty the King Bhumibol Adulyadej, as a symbol of the linkage between Thailand and modern communications technology."
+		},
+		{
+			"mission_name": "Telstar",
+			"mission_id": "F4F83DE",
+			"manufacturers": ["SSL"],
+			"payload_ids": ["Telstar 19V", "Telstar 18V"],
+			"wikipedia": "https://en.wikipedia.org/wiki/Telesat",
+			"website": "https://www.telesat.com/",
+			"twitter": null,
+			"description": "Telstar 19V (Telstar 19 Vantage) is a communication satellite in the Telstar series of the Canadian satellite communications company Telesat. It was built by Space Systems Loral (MAXAR) and is based on the SSL-1300 bus. As of 26 July 2018, Telstar 19V is the heaviest commercial communications satellite ever launched, weighing at 7,076 kg (15,600 lbs) and surpassing the previous record, set by TerreStar-1 (6,910 kg/15230lbs), launched by Ariane 5ECA on 1 July 2009."
+		},
+		{
+			"mission_name": "Iridium NEXT",
+			"mission_id": "F3364BF",
+			"manufacturers": ["Orbital ATK"],
+			"payload_ids": [
+				"Iridium NEXT 1",
+				"Iridium NEXT 2",
+				"Iridium NEXT 3",
+				"Iridium NEXT 4",
+				"Iridium NEXT 5",
+				"Iridium NEXT 6",
+				"Iridium NEXT 7",
+				"Iridium NEXT 8"
+			],
+			"wikipedia": "https://en.wikipedia.org/wiki/Iridium_satellite_constellation",
+			"website": "https://www.iridiumnext.com/",
+			"twitter": "https://twitter.com/IridiumBoss?lang=en",
+			"description": "In 2017, Iridium began launching Iridium NEXT, a second-generation worldwide network of telecommunications satellites, consisting of 66 active satellites, with another nine in-orbit spares and six on-ground spares. These satellites will incorporate features such as data transmission that were not emphasized in the original design. The constellation will provide L-band data speeds of up to 128 kbit/s to mobile terminals, up to 1.5 Mbit/s to Iridium Pilot marine terminals, and high-speed Ka-band service of up to 8 Mbit/s to fixed/transportable terminals. The next-generation terminals and service are expected to be commercially available by the end of 2018. However, Iridium's proposed use of its next-generation satellites has raised concerns the service will harmfully interfere with GPS devices. The satellites will incorporate a secondary payload for Aireon, a space-qualified ADS-B data receiver. This is for use by air traffic control and, via FlightAware, for use by airlines. A tertiary payload on 58 satellites is a marine AIS ship-tracker receiver, for Canadian company exactEarth Ltd. Iridium can also be used to provide a data link to other satellites in space, enabling command and control of other space assets regardless of the position of ground stations and gateways."
+		},
+		{
+			"mission_name": "Commercial Resupply Services",
+			"mission_id": "EE86F74",
+			"manufacturers": ["SpaceX"],
+			"payload_ids": [
+				"Dragon Qualification Unit",
+				"COTS Demo Flight 1",
+				"COTS Demo Flight 2",
+				"SpaceX CRS-1",
+				"SpaceX CRS-2",
+				"SpaceX CRS-3",
+				"SpaceX CRS-4",
+				"SpaceX CRS-5",
+				"SpaceX CRS-6",
+				"SpaceX CRS-7",
+				"SpaceX CRS-8",
+				"SpaceX CRS-9",
+				"SpaceX CRS-10",
+				"SpaceX CRS-11",
+				"SpaceX CRS-12",
+				"SpaceX CRS-13",
+				"SpaceX CRS-14",
+				"SpaceX CRS-15"
+			],
+			"wikipedia": "https://en.wikipedia.org/wiki/Commercial_Resupply_Services#SpaceX",
+			"website": "https://www.spacex.com/",
+			"twitter": "https://twitter.com/SpaceX",
+			"description": "Commercial Resupply Services (CRS) are a series of contracts awarded by NASA from 2008–2016 for delivery of cargo and supplies to the International Space Station (ISS) on commercially operated spacecraft. The first CRS contracts were signed in 2008 and awarded $1.6 billion to SpaceX for 12 cargo transport missions and $1.9 billion to Orbital Sciences for 8 missions, covering deliveries to 2016. In 2015, NASA extended the Phase 1 contracts by ordering an additional three resupply flights from SpaceX and one from Orbital Sciences. After additional extensions late in 2015, SpaceX is currently scheduled to have a total of 20 missions and Orbital 10. SpaceX began flying resupply missions in 2012, using Dragon cargo spacecraft launched on Falcon 9 rockets from Space Launch Complex 40 at Cape Canaveral Air Force Station, Cape Canaveral, Florida. Orbital Sciences began deliveries in 2013 using Cygnus spacecraft launched on the Antares rocket from Launch Pad 0A at the Mid-Atlantic Regional Spaceport (MARS), Wallops Island, Virginia. A second phase of contracts (known as CRS2) were solicited and proposed in 2014. They were awarded in January 2016 to Orbital ATK, Sierra Nevada Corporation, and SpaceX, for cargo transport flights beginning in 2019 and expected to last through 2024."
+		},
+		{
+			"mission_name": "SES",
+			"mission_id": "6C42550",
+			"manufacturers": [
+				"Orbital ATK",
+				"Boeing",
+				"Airbus Defence and Space"
+			],
+			"payload_ids": [
+				"SES-8",
+				"SES-9",
+				"SES-10",
+				"SES-11",
+				"SES-16",
+				"SES-12"
+			],
+			"wikipedia": "https://en.wikipedia.org/wiki/SES_S.A.",
+			"website": "https://www.ses.com/",
+			"twitter": "https://twitter.com/SES_Satellites",
+			"description": "SES S.A. is a communications satellite owner and operator providing video and data connectivity worldwide to broadcasters, content and internet service providers, mobile and fixed network operators, governments and institutions, with a mission to “connect, enable, and enrich”. SES operates more than 50 geostationary orbit satellites and 16 medium Earth orbit satellites. These comprise the well-known European Astra TV satellites, the O3b data satellites and others with names including AMC, Ciel, NSS, Quetzsat, YahSat and SES."
+		},
+		{
+			"mission_name": "JCSAT",
+			"mission_id": "FE3533D",
+			"manufacturers": ["SSL"],
+			"payload_ids": ["JCSAT-2B", "JCSAT-16"],
+			"wikipedia": "https://en.wikipedia.org/wiki/JSAT_Corporation",
+			"website": "https://www.jsat.net/en/",
+			"twitter": null,
+			"description": "The JSAT constellation is a communication and broadcasting satellite constellation formerly operated by JSAT Corporation and currently by SKY Perfect JSAT Group. It has become the most important commercial constellation in Japan, and the fifth of the world. It has practically amalgamated all private satellite operators in Japan, with only B-SAT left as a local competitor."
+		},
+		{
+			"mission_name": "AsiaSat",
+			"mission_id": "593B499",
+			"manufacturers": ["SSL"],
+			"payload_ids": ["AsiaSat 8", "AsiaSat 6"],
+			"wikipedia": "https://en.wikipedia.org/wiki/AsiaSat",
+			"website": "https://www.asiasat.com/",
+			"twitter": "https://twitter.com/asia_satellite",
+			"description": "Asia Satellite Telecommunications Holdings Limited known as its brand name AsiaSat is a commercial operator of communication spacecraft. AsiaSat is based in Hong Kong but incorporated in Bermuda."
+		},
+		{
+			"mission_name": "Orbcomm OG2",
+			"mission_id": "CE91D46",
+			"manufacturers": ["Sierra Nevada Corporation"],
+			"payload_ids": ["Orbcomm-OG2", "Orbcomm-OG2-M1", "Orbcomm-OG2-M2"],
+			"wikipedia": "https://en.wikipedia.org/wiki/Orbcomm_(satellite)#Orbcomm-OG2",
+			"website": "https://www.orbcomm.com/",
+			"twitter": "https://twitter.com/orbcomm_inc",
+			"description": "Orbcomm Generation 2 (OG2) second-generation satellites are intended to supplement and eventually replace the current first generation constellation. Eighteen satellites were ordered by 2008—nominally intended to be launched in three groups of six during 2010–2014—and by 2015 have all been launched, on three flights. Orbcomm has options for a further thirty OG2 spacecraft. The satellites were launched by SpaceX on the Falcon 9 launch system. Originally, they were to launch on the smaller Falcon 1e rocket."
+		},
+		{
+			"mission_name": "ABS",
+			"mission_id": "2CF444A",
+			"manufacturers": ["Boeing"],
+			"payload_ids": ["ABS-3A", "ABS-3B"],
+			"wikipedia": "https://en.wikipedia.org/wiki/ABS_(satellite_operator)",
+			"website": "http://www.absatellite.com/",
+			"twitter": null,
+			"description": "ABS, formerly Asia Broadcast Satellite, is a global satellite operator based in Hong Kong and officially incorporated in Bermuda. Its services include direct-to-home and satellite-to-cable TV distribution, cellular services, and internet services. Operating 6 communication satellites, the satellite fleet currently covers 93% of the world’s population including the Americas, Africa, Asia Pacific, Europe, the Middle East, Russia and Commonwealth of Independent States."
+		},
+		{
+			"mission_name": "Eutelsat",
+			"mission_id": "F7709F2",
+			"manufacturers": ["Boeing"],
+			"payload_ids": ["Eutelsat 115 West B", "Eutelsat 117 West B"],
+			"wikipedia": "https://en.wikipedia.org/wiki/Eutelsat",
+			"website": "https://www.eutelsat.com/en/home.html#",
+			"twitter": "https://twitter.com/Eutelsat_SA?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+			"description": "Eutelsat S.A. is a European satellite operator. Providing coverage over the entire European continent, the Middle East, Africa, Asia and the Americas, it is the world's third largest satellite operator in terms of revenues."
+		}
+	],
+	"capsules": [
+		{
+			"capsule_serial": "C101",
+			"capsule_id": "dragon1",
+			"status": "retired",
+			"original_launch": "2010-12-08T15:43:00.000Z",
+			"original_launch_unix": 1291822980,
+			"missions": [
+				{
+					"name": "COTS 1",
+					"flight": 7
+				}
+			],
+			"landings": 1,
+			"type": "Dragon 1.0",
+			"details": "Reentered after three weeks in orbit",
+			"reuse_count": 0
+		},
+		{
+			"capsule_serial": "C102",
+			"capsule_id": "dragon1",
+			"status": "retired",
+			"original_launch": "2012-05-22T07:44:00.000Z",
+			"original_launch_unix": 1335944640,
+			"missions": [
+				{
+					"name": "COTS 2",
+					"flight": 8
+				}
+			],
+			"landings": 1,
+			"type": "Dragon 1.0",
+			"details": "First Dragon spacecraft",
+			"reuse_count": 0
+		},
+		{
+			"capsule_serial": "C103",
+			"capsule_id": "dragon1",
+			"status": "unknown",
+			"original_launch": "2012-10-08T00:35:00.000Z",
+			"original_launch_unix": 1349656500,
+			"missions": [
+				{
+					"name": "CRS-1",
+					"flight": 9
+				}
+			],
+			"landings": 1,
+			"type": "Dragon 1.0",
+			"details": "First of twenty missions flown under the CRS1 contract",
+			"reuse_count": 0
+		},
+		{
+			"capsule_serial": "C104",
+			"capsule_id": "dragon1",
+			"status": "unknown",
+			"original_launch": "2013-03-01T19:10:00.000Z",
+			"original_launch_unix": 1362165000,
+			"missions": [
+				{
+					"name": "CRS-2",
+					"flight": 10
+				}
+			],
+			"landings": 1,
+			"type": "Dragon 1.0",
+			"details": null,
+			"reuse_count": 0
+		},
+		{
+			"capsule_serial": "C105",
+			"capsule_id": "dragon1",
+			"status": "unknown",
+			"original_launch": "2014-04-18T19:25:00.000Z",
+			"original_launch_unix": 1397849100,
+			"missions": [
+				{
+					"name": "CRS-3",
+					"flight": 14
+				}
+			],
+			"landings": 1,
+			"type": "Dragon 1.1",
+			"details": "First Dragon v1.1 capsule",
+			"reuse_count": 0
+		},
+		{
+			"capsule_serial": "C106",
+			"capsule_id": "dragon1",
+			"status": "active",
+			"original_launch": "2014-09-21T05:52:00.000Z",
+			"original_launch_unix": 1411278720,
+			"missions": [
+				{
+					"name": "CRS-4",
+					"flight": 18
+				},
+				{
+					"name": "CRS-11",
+					"flight": 41
+				},
+				{
+					"name": "CRS-19",
+					"flight": 85
+				}
+			],
+			"landings": 3,
+			"type": "Dragon 1.1",
+			"details": "First Dragon capsule to be reused",
+			"reuse_count": 2
+		},
+		{
+			"capsule_serial": "C107",
+			"capsule_id": "dragon1",
+			"status": "unknown",
+			"original_launch": "2015-01-10T09:47:00.000Z",
+			"original_launch_unix": 1420883220,
+			"missions": [
+				{
+					"name": "CRS-5",
+					"flight": 19
+				}
+			],
+			"landings": 1,
+			"type": "Dragon 1.1",
+			"details": null,
+			"reuse_count": 0
+		},
+		{
+			"capsule_serial": "C108",
+			"capsule_id": "dragon1",
+			"status": "active",
+			"original_launch": "2015-04-14T20:10:00.000Z",
+			"original_launch_unix": 1429042200,
+			"missions": [
+				{
+					"name": "CRS-6",
+					"flight": 22
+				},
+				{
+					"name": "CRS-13",
+					"flight": 51
+				},
+				{
+					"name": "CRS-18",
+					"flight": 82
+				}
+			],
+			"landings": 3,
+			"type": "Dragon 1.1",
+			"details": "Second Dragon capsule to be reused",
+			"reuse_count": 2
+		},
+		{
+			"capsule_serial": "C109",
+			"capsule_id": "dragon1",
+			"status": "destroyed",
+			"original_launch": "2015-06-28T14:21:00.000Z",
+			"original_launch_unix": 1435501260,
+			"missions": [
+				{
+					"name": "CRS-7",
+					"flight": 24
+				}
+			],
+			"landings": 0,
+			"type": "Dragon 1.1",
+			"details": "Destroyed on impact after F9 launch failure",
+			"reuse_count": 0
+		},
+		{
+			"capsule_serial": "C110",
+			"capsule_id": "dragon1",
+			"status": "active",
+			"original_launch": "2016-04-08T20:43:00.000Z",
+			"original_launch_unix": 1460148180,
+			"missions": [
+				{
+					"name": "CRS-8",
+					"flight": 28
+				},
+				{
+					"name": "CRS-14",
+					"flight": 59
+				}
+			],
+			"landings": 2,
+			"type": "Dragon 1.1",
+			"details": null,
+			"reuse_count": 1
+		},
+		{
+			"capsule_serial": "C111",
+			"capsule_id": "dragon1",
+			"status": "active",
+			"original_launch": "2016-07-18T04:45:00.000Z",
+			"original_launch_unix": 1468817100,
+			"missions": [
+				{
+					"name": "CRS-9",
+					"flight": 32
+				},
+				{
+					"name": "CRS-15",
+					"flight": 64
+				}
+			],
+			"landings": 2,
+			"type": "Dragon 1.1",
+			"details": null,
+			"reuse_count": 1
+		},
+		{
+			"capsule_serial": "C112",
+			"capsule_id": "dragon1",
+			"status": "active",
+			"original_launch": "2017-02-19T14:39:00.000Z",
+			"original_launch_unix": 1487515140,
+			"missions": [
+				{
+					"name": "CRS-10",
+					"flight": 36
+				},
+				{
+					"name": "CRS-16",
+					"flight": 72
+				},
+				{
+					"name": "CRS-20",
+					"flight": 91
+				}
+			],
+			"landings": 3,
+			"type": "Dragon 1.1",
+			"details": null,
+			"reuse_count": 2
+		},
+		{
+			"capsule_serial": "C113",
+			"capsule_id": "dragon1",
+			"status": "active",
+			"original_launch": "2017-08-14T16:31:00.000Z",
+			"original_launch_unix": 1502728260,
+			"missions": [
+				{
+					"name": "CRS-12",
+					"flight": 45
+				},
+				{
+					"name": "CRS-17",
+					"flight": 78
+				}
+			],
+			"landings": 2,
+			"type": "Dragon 1.1",
+			"details": "The last newly manufactured Dragon 1",
+			"reuse_count": 1
+		},
+		{
+			"capsule_serial": "C201",
+			"capsule_id": "dragon2",
+			"status": "active",
+			"original_launch": "2019-03-02T07:45:00.000Z",
+			"original_launch_unix": 1551512700,
+			"missions": [
+				{
+					"name": "CCtCap Demo Mission 1",
+					"flight": 76
+				}
+			],
+			"landings": 1,
+			"type": "Dragon 2.0",
+			"details": "Destroyed in a test anomaly at LZ-1 on April 20, 2019",
+			"reuse_count": 0
+		},
+		{
+			"capsule_serial": "C205",
+			"capsule_id": "dragon2",
+			"status": "active",
+			"original_launch": "2020-01-19T14:00:00.000Z",
+			"original_launch_unix": 1579442400,
+			"missions": [
+				{
+					"name": "Crew Dragon In Flight Abort Test",
+					"flight": 88
+				}
+			],
+			"landings": 1,
+			"type": "Dragon 2.0",
+			"details": "In construction for use in first mission in contract under the CCtCap contract",
+			"reuse_count": 0
+		},
+		{
+			"capsule_serial": "C206",
+			"capsule_id": "dragon2",
+			"status": "active",
+			"original_launch": "2020-05-30T19:22:00.000Z",
+			"original_launch_unix": 1590866520,
+			"missions": [
+				{
+					"name": "CCtCap Demo Mission 2",
+					"flight": 94
+				}
+			],
+			"landings": 1,
+			"type": "Dragon 2.0",
+			"details": "In Hawthorne, CA as of October 11, 2019. Seen in background during Musk/Bridenstine press conference.",
+			"reuse_count": 0
+		},
+		{
+			"capsule_serial": "C202",
+			"capsule_id": "dragon2",
+			"status": "active",
+			"original_launch": null,
+			"original_launch_unix": null,
+			"missions": [],
+			"landings": 0,
+			"type": "Dragon 2.0",
+			"details": "Capsule used to qualify Dragon 2's environmental control and life support systems.",
+			"reuse_count": 0
+		},
+		{
+			"capsule_serial": "C203",
+			"capsule_id": "dragon2",
+			"status": "active",
+			"original_launch": null,
+			"original_launch_unix": null,
+			"missions": [],
+			"landings": 0,
+			"type": "Dragon 2.0",
+			"details": "Rumored to be used for Inflight Abort Test after DM-1",
+			"reuse_count": 0
+		},
+		{
+			"capsule_serial": "C204",
+			"capsule_id": "dragon2",
+			"status": "active",
+			"original_launch": null,
+			"original_launch_unix": null,
+			"missions": [],
+			"landings": 0,
+			"type": "Dragon 2.0",
+			"details": "Currently in construction for use in DM-2",
+			"reuse_count": 0
+		}
+	],
+	"history": [
+		{
+			"id": 1,
+			"title": "Falcon 1 Makes History",
+			"event_date_utc": "2008-09-28T23:15:00Z",
+			"event_date_unix": 1222643700,
+			"flight_number": 4,
+			"details": "Falcon 1 becomes the first privately developed liquid fuel rocket to reach Earth orbit.",
+			"links": {
+				"reddit": null,
+				"article": "http://www.spacex.com/news/2013/02/11/flight-4-launch-update-0",
+				"wikipedia": "https://en.wikipedia.org/wiki/Falcon_1"
+			}
+		},
+		{
+			"id": 2,
+			"title": "SpaceX Wins $1.6B CRS Contract",
+			"event_date_utc": "2008-12-23T01:00:00Z",
+			"event_date_unix": 1229994000,
+			"flight_number": null,
+			"details": "NASA awards SpaceX $1.6B Commercial Resupply Services (CRS) contract.",
+			"links": {
+				"reddit": null,
+				"article": "https://www.nasaspaceflight.com/2008/12/spacex-and-orbital-win-huge-crs-contract-from-nasa/",
+				"wikipedia": "https://en.wikipedia.org/wiki/Commercial_Resupply_Services"
+			}
+		},
+		{
+			"id": 3,
+			"title": "Falcon 1 Flight 5 Makes History",
+			"event_date_utc": "2009-07-13T03:35:00Z",
+			"event_date_unix": 1247456100,
+			"flight_number": 5,
+			"details": "Falcon 1 Flight 5 makes history, becoming the first privately developed liquid fuel rocket to deliver a commercial satellite to Earth orbit.",
+			"links": {
+				"reddit": null,
+				"article": "http://www.spacex.com/news/2013/02/12/falcon-1-flight-5",
+				"wikipedia": "https://en.wikipedia.org/wiki/Falcon_1"
+			}
+		},
+		{
+			"id": 4,
+			"title": "Falcon 9 First Flight",
+			"event_date_utc": "2010-06-04T18:45:00Z",
+			"event_date_unix": 1275677100,
+			"flight_number": 6,
+			"details": "Met 100% of mission objectives on the first flight!",
+			"links": {
+				"reddit": null,
+				"article": "http://www.bbc.com/news/10209704",
+				"wikipedia": "https://en.wikipedia.org/wiki/Dragon_Spacecraft_Qualification_Unit"
+			}
+		},
+		{
+			"id": 5,
+			"title": "Dragon Returns From Earth Orbit",
+			"event_date_utc": "2010-12-08T15:43:00Z",
+			"event_date_unix": 1291822980,
+			"flight_number": 7,
+			"details": "On December 8, 2010, Dragon became the first privately developed spacecraft in history to re-enter from low-Earth orbit.",
+			"links": {
+				"reddit": null,
+				"article": "http://www.cnn.com/2010/US/12/08/space.flight/index.html",
+				"wikipedia": "https://en.wikipedia.org/wiki/SpaceX_COTS_Demo_Flight_1"
+			}
+		},
+		{
+			"id": 6,
+			"title": "First Dragon Visit to Space Station",
+			"event_date_utc": "2012-10-08T00:35:00Z",
+			"event_date_unix": 1349656500,
+			"flight_number": 9,
+			"details": "Dragon becomes the first private spacecraft in history to visit the space station.",
+			"links": {
+				"reddit": null,
+				"article": "http://thespacereview.com/article/2168/1",
+				"wikipedia": "https://en.wikipedia.org/wiki/SpaceX_CRS-1"
+			}
+		},
+		{
+			"id": 7,
+			"title": "Grasshopper Completes Half-Mile Flight",
+			"event_date_utc": "2013-10-07T01:00:00Z",
+			"event_date_unix": 1381107600,
+			"flight_number": null,
+			"details": "The Grasshopper program finished with a 744m flight, hover, and landing.",
+			"links": {
+				"reddit": null,
+				"article": "http://spacenews.com/37740spacex-retires-grasshopper-new-test-rig-to-fly-in-december/",
+				"wikipedia": "https://en.wikipedia.org/wiki/Grasshopper_(rocket)"
+			}
+		},
+		{
+			"id": 8,
+			"title": "First Flight of Falcon 9 to GTO",
+			"event_date_utc": "2013-12-03T22:41:00Z",
+			"event_date_unix": 1386110460,
+			"flight_number": 12,
+			"details": "Falcon 9 reaches Geosynchronous Transfer Orbit",
+			"links": {
+				"reddit": null,
+				"article": "http://www.newspacejournal.com/2013/03/27/after-dragon-spacexs-focus-returns-to-falcon/",
+				"wikipedia": "https://en.wikipedia.org/wiki/SES-8"
+			}
+		},
+		{
+			"id": 9,
+			"title": "First Stage Landing",
+			"event_date_utc": "2014-04-18T19:25:00Z",
+			"event_date_unix": 1397849100,
+			"flight_number": 14,
+			"details": "Falcon 9 first stage successfully lands in Atlantic Ocean.",
+			"links": {
+				"reddit": null,
+				"article": "https://www.space.com/25562-spacex-falcon-9-reusable-rocket-test.html",
+				"wikipedia": "https://en.wikipedia.org/wiki/SpaceX_CRS-3"
+			}
+		},
+		{
+			"id": 10,
+			"title": "Falcon 9 Reusable Test Vehicle Flies 1000M",
+			"event_date_utc": "2014-05-02T01:00:00Z",
+			"event_date_unix": 1398992400,
+			"flight_number": null,
+			"details": "Vehicle completes highest leap to date, lands safely.",
+			"links": {
+				"reddit": null,
+				"article": "http://www.parabolicarc.com/2014/05/02/falcon-9-reusable-vehicle-flies-1000-meters/",
+				"wikipedia": null
+			}
+		},
+		{
+			"id": 11,
+			"title": "SpaceX Awarded Commercial Crew Contract",
+			"event_date_utc": "2014-09-16T01:00:00Z",
+			"event_date_unix": 1410829200,
+			"flight_number": null,
+			"details": "NASA awards $2.6 billion SpaceX contract to fly American astronauts.",
+			"links": {
+				"reddit": null,
+				"article": "https://www.washingtonpost.com/news/the-switch/wp/2014/09/16/nasa-awards-space-contract-to-boeing-and-spacex/?utm_term=.d6388390d071",
+				"wikipedia": null
+			}
+		},
+		{
+			"id": 12,
+			"title": "Drone Ship Landings",
+			"event_date_utc": "2015-01-10T09:47:00Z",
+			"event_date_unix": 1420883220,
+			"flight_number": 19,
+			"details": "SpaceX begins series of first stage landing attempts on an autonomous spaceport drone ship.",
+			"links": {
+				"reddit": "http://www.reddit.com/r/spacex/comments/2rrdha",
+				"article": "https://spaceflightnow.com/2015/01/10/dragon-successfully-launched-rocket-recovery-demo-crash-lands/",
+				"wikipedia": "https://en.wikipedia.org/wiki/SpaceX_CRS-5"
+			}
+		},
+		{
+			"id": 13,
+			"title": "Pad Abort Test",
+			"event_date_utc": "2015-05-06T13:00:00Z",
+			"event_date_unix": 1430917200,
+			"flight_number": null,
+			"details": "Crew Dragon tests launch abort system, which can provide astronauts with escape capability all the way to orbit.",
+			"links": {
+				"reddit": "https://www.reddit.com/r/spacex/comments/3527zv/official_video_pad_abort_test_2015/",
+				"article": "https://spaceflightnow.com/2015/04/21/dragon-pad-abort-test-set-for-early-may/",
+				"wikipedia": "https://en.wikipedia.org/wiki/Pad_abort_test"
+			}
+		},
+		{
+			"id": 14,
+			"title": "First Land Landing",
+			"event_date_utc": "2015-12-22T01:29:00Z",
+			"event_date_unix": 1450747740,
+			"flight_number": 25,
+			"details": "On December 21, 2015, the Falcon 9 rocket delivered 11 communications satellites to orbit, and the first stage returned and landed at Landing Zone 1 -– the first-ever orbital class rocket landing.",
+			"links": {
+				"reddit": "https://www.reddit.com/r/spacex/comments/3xgxh5/rspacex_orbcomm_og2_launch_2_official_launch/",
+				"article": "https://spaceflightnow.com/2015/12/22/round-trip-rocket-flight-gives-spacex-a-trifecta-of-successes/",
+				"wikipedia": "https://en.wikipedia.org/wiki/Falcon_9_flight_20"
+			}
+		},
+		{
+			"id": 15,
+			"title": "Droneship Landing",
+			"event_date_utc": "2016-04-08T20:43:00Z",
+			"event_date_unix": 1460148180,
+			"flight_number": 28,
+			"details": "On April 8, 2016, the Falcon 9 rocket launched the Dragon spacecraft to the International Space Station, and the first stage returned and landed on the Of Course I Still Love You droneship.",
+			"links": {
+				"reddit": "https://www.reddit.com/r/spacex/comments/4dtoly/rspacex_spacex_crs8_official_launch_discussion/",
+				"article": "https://spaceflightnow.com/2016/04/08/spacex-lands-rocket-on-floating-platform-after-station-resupply-launch/",
+				"wikipedia": "https://en.wikipedia.org/wiki/SpaceX_CRS-8"
+			}
+		},
+		{
+			"id": 16,
+			"title": "First Reflight",
+			"event_date_utc": "2017-03-30T22:27:00Z",
+			"event_date_unix": 1490912820,
+			"flight_number": 38,
+			"details": "On March 30, 2017, SpaceX achieved the world's first reflight of an orbital class rocket. Following delivery of the payload, the Falcon 9 first stage returned to Earth for the second time.",
+			"links": {
+				"reddit": "https://www.reddit.com/r/spacex/comments/62aqi7/rspacex_ses10_official_launch_discussion_updates/",
+				"article": "https://spaceflightnow.com/2017/03/31/spacex-flies-rocket-for-second-time-in-historic-test-of-cost-cutting-technology/",
+				"wikipedia": "https://en.wikipedia.org/wiki/SES-10"
+			}
+		},
+		{
+			"id": 17,
+			"title": "First Dragon Reflight",
+			"event_date_utc": "2017-06-03T21:07:00Z",
+			"event_date_unix": 1496524020,
+			"flight_number": 41,
+			"details": "This Dragon resupply mission represented the first reflight of a commercial spacecraft to and from the International Space Station.",
+			"links": {
+				"reddit": "https://www.reddit.com/r/spacex/comments/6ektkt/welcome_to_the_rspacex_crs11_official_launch/",
+				"article": "https://spaceflightnow.com/2017/06/03/reused-dragon-cargo-capsule-launched-on-journey-to-space-station/",
+				"wikipedia": "https://en.wikipedia.org/wiki/SpaceX_CRS-11"
+			}
+		},
+		{
+			"id": 18,
+			"title": "Falcon Heavy Test Flight",
+			"event_date_utc": "2018-02-06T20:45:00Z",
+			"event_date_unix": 1517949900,
+			"flight_number": 55,
+			"details": "Maiden flight of Falcon Heavy, using two recovered Falcon 9 cores as side boosters (from the Thaicom 8 and CRS-9 missions), as well as a modified Block 3 booster reinforced to endure the additional load from the two side boosters. The static fire test, held on January 24, was the first time 27 engines were tested together. The launch was a success, and the side boosters landed simultaneously at adjacent ground pads. Drone ship landing of the central core failed due to TEA–TEB chemical igniter running out, preventing two of its engines from restarting; the landing failure caused damage to the nearby drone ship. Final burn to heliocentric Mars–Earth orbit was performed after the second stage and payload cruised for 6 hours through the Van Allen belts. Later, Elon Musk tweeted that the third burn was successful, and JPL's HORIZONS system showed the second stage and payload in an orbit with an aphelion of 1.67 AU. The live webcast proved immensely popular, as it became the second most watched livestream ever on YouTube, reaching over 2.3 million concurrent views.",
+			"links": {
+				"reddit": "https://www.reddit.com/r/spacex/comments/7vg63x/rspacex_falcon_heavy_test_flight_official_launch/",
+				"article": "https://spaceflightnow.com/2018/02/07/spacex-debuts-worlds-most-powerful-rocket-sends-tesla-toward-the-asteroid-belt/",
+				"wikipedia": "https://en.wikipedia.org/wiki/Falcon_Heavy_test_flight"
+			}
+		},
+		{
+			"id": 19,
+			"title": "First Block 5 Launch",
+			"event_date_utc": "2018-05-11T20:14:00Z",
+			"event_date_unix": 1526069640,
+			"flight_number": 61,
+			"details": "The Bangabandhu Satellite-1 mission served as the first flight of Falcon 9 Block 5, the final substantial upgrade to SpaceX’s Falcon 9 launch vehicle. Falcon 9 Block 5 is designed to be capable of 10 or more flights with very limited refurbishment as SpaceX continues to strive for rapid reusability and extremely high reliability.",
+			"links": {
+				"reddit": "https://www.reddit.com/r/spacex/comments/8ioq3u/rspacex_bangabandhu1_official_launch_discussion/",
+				"article": "https://spaceflightnow.com/2018/05/11/spacex-debuts-an-improved-human-rated-model-of-the-falcon-9-rocket/",
+				"wikipedia": "https://en.wikipedia.org/wiki/Bangabandhu-1"
+			}
+		},
+		{
+			"id": 20,
+			"title": "First Block 5 Reflight",
+			"event_date_utc": "2018-08-07T05:18:00.000Z",
+			"event_date_unix": 1533619080,
+			"flight_number": 67,
+			"details": "Indonesian comsat intended to replace the aging Telkom 1 at 108° E. First reflight of a Block 5-version booster.",
+			"links": {
+				"reddit": "https://www.reddit.com/r/spacex/comments/9539nr/rspacex_merah_putih_telkom4_official_launch/",
+				"article": "https://spaceflightnow.com/2018/08/07/indonesian-communications-satellite-deployed-in-orbit-by-spacex/",
+				"wikipedia": "https://en.wikipedia.org/wiki/Telkom_Indonesia"
+			}
+		}
+	],
+	"cores": [
+		{
+			"core_serial": "Merlin1A",
+			"block": null,
+			"status": "lost",
+			"original_launch": "2006-03-24T22:30:00.000Z",
+			"original_launch_unix": 1143239400,
+			"missions": [
+				{
+					"name": "FalconSat",
+					"flight": 1
+				}
+			],
+			"reuse_count": 0,
+			"rtls_attempts": 0,
+			"rtls_landings": 0,
+			"asds_attempts": 0,
+			"asds_landings": 0,
+			"water_landing": false,
+			"details": "Engine failure at T+33 seconds resulted in loss of vehicle"
+		},
+		{
+			"core_serial": "Merlin2A",
+			"block": null,
+			"status": "lost",
+			"original_launch": "2007-03-21T01:10:00.000Z",
+			"original_launch_unix": 1174439400,
+			"missions": [
+				{
+					"name": "DemoSat",
+					"flight": 2
+				}
+			],
+			"reuse_count": 0,
+			"rtls_attempts": 0,
+			"rtls_landings": 0,
+			"asds_attempts": 0,
+			"asds_landings": 0,
+			"water_landing": false,
+			"details": "Successful first-stage burn and transition to second stage, maximal altitude 289 km. Harmonic oscillation at T+5 minutes Premature engine shutdown at T+7 min 30 s. Failed to reach orbit."
+		},
+		{
+			"core_serial": "Merlin1C",
+			"block": null,
+			"status": "lost",
+			"original_launch": "2008-08-03T03:34:00.000Z",
+			"original_launch_unix": 1217734440,
+			"missions": [
+				{
+					"name": "Trailblazer",
+					"flight": 3
+				}
+			],
+			"reuse_count": 0,
+			"rtls_attempts": 0,
+			"rtls_landings": 0,
+			"asds_attempts": 0,
+			"asds_landings": 0,
+			"water_landing": false,
+			"details": "Residual stage-1 thrust led to collision between stage 1 and stage 2."
+		},
+		{
+			"core_serial": "Merlin2C",
+			"block": null,
+			"status": "lost",
+			"original_launch": "2008-09-28T23:15:00.000Z",
+			"original_launch_unix": 1222643700,
+			"missions": [
+				{
+					"name": "RatSat",
+					"flight": 4
+				}
+			],
+			"reuse_count": 0,
+			"rtls_attempts": 0,
+			"rtls_landings": 0,
+			"asds_attempts": 0,
+			"asds_landings": 0,
+			"water_landing": false,
+			"details": "Initially scheduled for 23–25 Sep, carried dummy payload – mass simulator, 165 kg (originally intended to be RazakSAT."
+		},
+		{
+			"core_serial": "Merlin3C",
+			"block": null,
+			"status": "lost",
+			"original_launch": "2009-07-13T03:35:00.000Z",
+			"original_launch_unix": 1247456100,
+			"missions": [
+				{
+					"name": "RazakSat",
+					"flight": 5
+				}
+			],
+			"reuse_count": 0,
+			"rtls_attempts": 0,
+			"rtls_landings": 0,
+			"asds_attempts": 0,
+			"asds_landings": 0,
+			"water_landing": false,
+			"details": null
+		},
+		{
+			"core_serial": "B0003",
+			"block": 1,
+			"status": "lost",
+			"original_launch": "2010-06-04T18:45:00.000Z",
+			"original_launch_unix": 1275677100,
+			"missions": [
+				{
+					"name": "Falcon 9 Test Flight",
+					"flight": 6
+				}
+			],
+			"reuse_count": 0,
+			"rtls_attempts": 0,
+			"rtls_landings": 0,
+			"asds_attempts": 0,
+			"asds_landings": 0,
+			"water_landing": false,
+			"details": "Stage Expended"
+		},
+		{
+			"core_serial": "B0004",
+			"block": 1,
+			"status": "lost",
+			"original_launch": "2010-12-08T15:43:00.000Z",
+			"original_launch_unix": 1291822980,
+			"missions": [
+				{
+					"name": "COTS 1",
+					"flight": 7
+				}
+			],
+			"reuse_count": 0,
+			"rtls_attempts": 0,
+			"rtls_landings": 0,
+			"asds_attempts": 0,
+			"asds_landings": 0,
+			"water_landing": false,
+			"details": "First flight of Dragon"
+		},
+		{
+			"core_serial": "B0005",
+			"block": 1,
+			"status": "lost",
+			"original_launch": "2012-05-22T07:44:00.000Z",
+			"original_launch_unix": 1335944640,
+			"missions": [
+				{
+					"name": "COTS 2",
+					"flight": 8
+				}
+			],
+			"reuse_count": 0,
+			"rtls_attempts": 0,
+			"rtls_landings": 0,
+			"asds_attempts": 0,
+			"asds_landings": 0,
+			"water_landing": false,
+			"details": null
+		},
+		{
+			"core_serial": "B0006",
+			"block": 1,
+			"status": "lost",
+			"original_launch": "2012-10-08T00:35:00.000Z",
+			"original_launch_unix": 1349656500,
+			"missions": [
+				{
+					"name": "CRS-1",
+					"flight": 9
+				}
+			],
+			"reuse_count": 0,
+			"rtls_attempts": 0,
+			"rtls_landings": 0,
+			"asds_attempts": 0,
+			"asds_landings": 0,
+			"water_landing": false,
+			"details": "Suffered engine out at T+1:19 but primary mission successful"
+		},
+		{
+			"core_serial": "B0007",
+			"block": 1,
+			"status": "lost",
+			"original_launch": "2013-03-01T19:10:00.000Z",
+			"original_launch_unix": 1362165000,
+			"missions": [
+				{
+					"name": "CRS-2",
+					"flight": 10
+				}
+			],
+			"reuse_count": 0,
+			"rtls_attempts": 0,
+			"rtls_landings": 0,
+			"asds_attempts": 0,
+			"asds_landings": 0,
+			"water_landing": false,
+			"details": null
+		},
+		{
+			"core_serial": "B1003",
+			"block": 1,
+			"status": "lost",
+			"original_launch": "2013-09-29T16:00:00.000Z",
+			"original_launch_unix": 1380470400,
+			"missions": [
+				{
+					"name": "CASSIOPE",
+					"flight": 11
+				}
+			],
+			"reuse_count": 0,
+			"rtls_attempts": 0,
+			"rtls_landings": 0,
+			"asds_attempts": 0,
+			"asds_landings": 0,
+			"water_landing": true,
+			"details": "First flight of Falcon 9 v1.1 upgrade, first Spacex flight from Vandenberg"
+		},
+		{
+			"core_serial": "B1004",
+			"block": 1,
+			"status": "lost",
+			"original_launch": "2013-12-03T22:41:00.000Z",
+			"original_launch_unix": 1386110460,
+			"missions": [
+				{
+					"name": "SES-8",
+					"flight": 12
+				}
+			],
+			"reuse_count": 0,
+			"rtls_attempts": 0,
+			"rtls_landings": 0,
+			"asds_attempts": 0,
+			"asds_landings": 0,
+			"water_landing": false,
+			"details": null
+		},
+		{
+			"core_serial": "B1005",
+			"block": 1,
+			"status": "lost",
+			"original_launch": "2014-01-06T18:06:00.000Z",
+			"original_launch_unix": 1389031560,
+			"missions": [
+				{
+					"name": "Thaicom 6",
+					"flight": 13
+				}
+			],
+			"reuse_count": 0,
+			"rtls_attempts": 0,
+			"rtls_landings": 0,
+			"asds_attempts": 0,
+			"asds_landings": 0,
+			"water_landing": false,
+			"details": null
+		},
+		{
+			"core_serial": "B1006",
+			"block": 1,
+			"status": "lost",
+			"original_launch": "2014-04-18T19:25:00.000Z",
+			"original_launch_unix": 1397849100,
+			"missions": [
+				{
+					"name": "CRS-3",
+					"flight": 14
+				}
+			],
+			"reuse_count": 0,
+			"rtls_attempts": 0,
+			"rtls_landings": 0,
+			"asds_attempts": 0,
+			"asds_landings": 0,
+			"water_landing": true,
+			"details": "Broke up after sucessful water landing"
+		},
+		{
+			"core_serial": "B1007",
+			"block": 1,
+			"status": "lost",
+			"original_launch": "2014-07-14T15:15:00.000Z",
+			"original_launch_unix": 1405350900,
+			"missions": [
+				{
+					"name": "OG-2 Mission 1",
+					"flight": 15
+				}
+			],
+			"reuse_count": 0,
+			"rtls_attempts": 0,
+			"rtls_landings": 0,
+			"asds_attempts": 0,
+			"asds_landings": 0,
+			"water_landing": true,
+			"details": "Broke up after sucessful water landing"
+		},
+		{
+			"core_serial": "B1008",
+			"block": 1,
+			"status": "lost",
+			"original_launch": "2014-08-05T08:00:00.000Z",
+			"original_launch_unix": 1407225600,
+			"missions": [
+				{
+					"name": "AsiaSat 8",
+					"flight": 16
+				}
+			],
+			"reuse_count": 0,
+			"rtls_attempts": 0,
+			"rtls_landings": 0,
+			"asds_attempts": 0,
+			"asds_landings": 0,
+			"water_landing": false,
+			"details": null
+		},
+		{
+			"core_serial": "B1011",
+			"block": 1,
+			"status": "lost",
+			"original_launch": "2014-09-07T05:00:00.000Z",
+			"original_launch_unix": 1410066000,
+			"missions": [
+				{
+					"name": "AsiaSat 6",
+					"flight": 17
+				}
+			],
+			"reuse_count": 0,
+			"rtls_attempts": 0,
+			"rtls_landings": 0,
+			"asds_attempts": 0,
+			"asds_landings": 0,
+			"water_landing": false,
+			"details": null
+		},
+		{
+			"core_serial": "B1010",
+			"block": 1,
+			"status": "lost",
+			"original_launch": "2014-09-21T05:52:00.000Z",
+			"original_launch_unix": 1411278720,
+			"missions": [
+				{
+					"name": "CRS-4",
+					"flight": 18
+				}
+			],
+			"reuse_count": 0,
+			"rtls_attempts": 0,
+			"rtls_landings": 0,
+			"asds_attempts": 0,
+			"asds_landings": 0,
+			"water_landing": true,
+			"details": "Broke up after sucessful water landing"
+		},
+		{
+			"core_serial": "B1012",
+			"block": 1,
+			"status": "lost",
+			"original_launch": "2015-01-10T09:47:00.000Z",
+			"original_launch_unix": 1420883220,
+			"missions": [
+				{
+					"name": "CRS-5",
+					"flight": 19
+				}
+			],
+			"reuse_count": 0,
+			"rtls_attempts": 0,
+			"rtls_landings": 0,
+			"asds_attempts": 1,
+			"asds_landings": 0,
+			"water_landing": false,
+			"details": "Destroyed on impact with droneship, grid fin hydraulic fluid depleted"
+		},
+		{
+			"core_serial": "B1013",
+			"block": 1,
+			"status": "lost",
+			"original_launch": "2015-02-11T23:03:00.000Z",
+			"original_launch_unix": 1423695780,
+			"missions": [
+				{
+					"name": "DSCOVR",
+					"flight": 20
+				}
+			],
+			"reuse_count": 0,
+			"rtls_attempts": 0,
+			"rtls_landings": 0,
+			"asds_attempts": 0,
+			"asds_landings": 0,
+			"water_landing": true,
+			"details": "Broke up after sucessful water landing"
+		},
+		{
+			"core_serial": "B1014",
+			"block": 1,
+			"status": "lost",
+			"original_launch": "2015-03-02T03:50:00.000Z",
+			"original_launch_unix": 1425268200,
+			"missions": [
+				{
+					"name": "ABS-3A / Eutelsat 115W B",
+					"flight": 21
+				}
+			],
+			"reuse_count": 0,
+			"rtls_attempts": 0,
+			"rtls_landings": 0,
+			"asds_attempts": 0,
+			"asds_landings": 0,
+			"water_landing": false,
+			"details": null
+		},
+		{
+			"core_serial": "B1015",
+			"block": 1,
+			"status": "lost",
+			"original_launch": "2015-04-14T20:10:00.000Z",
+			"original_launch_unix": 1429042200,
+			"missions": [
+				{
+					"name": "CRS-6",
+					"flight": 22
+				}
+			],
+			"reuse_count": 0,
+			"rtls_attempts": 0,
+			"rtls_landings": 0,
+			"asds_attempts": 1,
+			"asds_landings": 0,
+			"water_landing": false,
+			"details": "Destroyed on impact with droneship due to excess lateral velocity - throttle stiction"
+		},
+		{
+			"core_serial": "B1016",
+			"block": 1,
+			"status": "lost",
+			"original_launch": "2015-04-27T23:03:00.000Z",
+			"original_launch_unix": 1430175780,
+			"missions": [
+				{
+					"name": "TürkmenÄlem 52°E / MonacoSAT",
+					"flight": 23
+				}
+			],
+			"reuse_count": 0,
+			"rtls_attempts": 0,
+			"rtls_landings": 0,
+			"asds_attempts": 0,
+			"asds_landings": 0,
+			"water_landing": false,
+			"details": null
+		},
+		{
+			"core_serial": "B1018",
+			"block": 1,
+			"status": "lost",
+			"original_launch": "2015-06-28T14:21:00.000Z",
+			"original_launch_unix": 1435501260,
+			"missions": [
+				{
+					"name": "CRS-7",
+					"flight": 24
+				}
+			],
+			"reuse_count": 0,
+			"rtls_attempts": 0,
+			"rtls_landings": 0,
+			"asds_attempts": 0,
+			"asds_landings": 0,
+			"water_landing": false,
+			"details": "RUD at T + 139s - second stage overpressure event due to defective COPV strut heim joint"
+		},
+		{
+			"core_serial": "B1019",
+			"block": 1,
+			"status": "inactive",
+			"original_launch": "2015-12-22T01:29:00.000Z",
+			"original_launch_unix": 1450747740,
+			"missions": [
+				{
+					"name": "OG-2 Mission 2",
+					"flight": 25
+				}
+			],
+			"reuse_count": 0,
+			"rtls_attempts": 1,
+			"rtls_landings": 1,
+			"asds_attempts": 0,
+			"asds_landings": 0,
+			"water_landing": false,
+			"details": "Retired; permanently displayed at Hawthorne headquarters. "
+		},
+		{
+			"core_serial": "B1017",
+			"block": 1,
+			"status": "lost",
+			"original_launch": "2016-01-17T15:42:00.000Z",
+			"original_launch_unix": 1453045320,
+			"missions": [
+				{
+					"name": "Jason 3",
+					"flight": 26
+				}
+			],
+			"reuse_count": 0,
+			"rtls_attempts": 0,
+			"rtls_landings": 0,
+			"asds_attempts": 1,
+			"asds_landings": 0,
+			"water_landing": false,
+			"details": "Destroyed after drone ship landing due to landing leg failure"
+		},
+		{
+			"core_serial": "B1020",
+			"block": 1,
+			"status": "lost",
+			"original_launch": "2016-03-04T23:35:00.000Z",
+			"original_launch_unix": 1457134500,
+			"missions": [
+				{
+					"name": "SES-9",
+					"flight": 27
+				}
+			],
+			"reuse_count": 0,
+			"rtls_attempts": 0,
+			"rtls_landings": 0,
+			"asds_attempts": 1,
+			"asds_landings": 0,
+			"water_landing": false,
+			"details": "Destroyed on Impact with DroneShip (OCISLY) - Excess Velocity, Possible Fuel Exhaustion"
+		},
+		{
+			"core_serial": "B1021",
+			"block": 2,
+			"status": "inactive",
+			"original_launch": "2016-04-08T20:43:00.000Z",
+			"original_launch_unix": 1460148180,
+			"missions": [
+				{
+					"name": "CRS-8",
+					"flight": 28
+				},
+				{
+					"name": "SES-10",
+					"flight": 38
+				}
+			],
+			"reuse_count": 1,
+			"rtls_attempts": 0,
+			"rtls_landings": 0,
+			"asds_attempts": 2,
+			"asds_landings": 2,
+			"water_landing": false,
+			"details": "Retired; stored in Hangar E at CCAFS until put on permanent display "
+		},
+		{
+			"core_serial": "B1022",
+			"block": 2,
+			"status": "inactive",
+			"original_launch": "2016-05-06T05:21:00.000Z",
+			"original_launch_unix": 1462512060,
+			"missions": [
+				{
+					"name": "JCSAT-2B",
+					"flight": 29
+				}
+			],
+			"reuse_count": 0,
+			"rtls_attempts": 0,
+			"rtls_landings": 0,
+			"asds_attempts": 1,
+			"asds_landings": 1,
+			"water_landing": false,
+			"details": "Removed from active fleet for Δ Qualification Testing. Retired after eight to ten test cycles.  Currently partially disassembled at McGregor."
+		},
+		{
+			"core_serial": "B1023",
+			"block": 2,
+			"status": "inactive",
+			"original_launch": "2016-05-27T21:39:00.000Z",
+			"original_launch_unix": 1464385140,
+			"missions": [
+				{
+					"name": "Thaicom 8",
+					"flight": 30
+				},
+				{
+					"name": "Falcon Heavy Test Flight",
+					"flight": 55
+				}
+			],
+			"reuse_count": 1,
+			"rtls_attempts": 1,
+			"rtls_landings": 1,
+			"asds_attempts": 1,
+			"asds_landings": 1,
+			"water_landing": false,
+			"details": "*At LZ1 as 2018/02/06 "
+		},
+		{
+			"core_serial": "B1024",
+			"block": 2,
+			"status": "lost",
+			"original_launch": "2016-06-15T14:29:00.000Z",
+			"original_launch_unix": 1466000940,
+			"missions": [
+				{
+					"name": "ABS-2A / Eutelsat 117W B",
+					"flight": 31
+				}
+			],
+			"reuse_count": 0,
+			"rtls_attempts": 0,
+			"rtls_landings": 0,
+			"asds_attempts": 1,
+			"asds_landings": 0,
+			"water_landing": false,
+			"details": "RUD on deck of droneship (OCISLY)"
+		},
+		{
+			"core_serial": "B1025",
+			"block": 2,
+			"status": "inactive",
+			"original_launch": "2016-07-18T04:45:00.000Z",
+			"original_launch_unix": 1468817100,
+			"missions": [
+				{
+					"name": "CRS-9",
+					"flight": 32
+				},
+				{
+					"name": "Falcon Heavy Test Flight",
+					"flight": 55
+				}
+			],
+			"reuse_count": 1,
+			"rtls_attempts": 2,
+			"rtls_landings": 2,
+			"asds_attempts": 0,
+			"asds_landings": 0,
+			"water_landing": false,
+			"details": "*At LZ2 as 2018/02/06 "
+		},
+		{
+			"core_serial": "B1026",
+			"block": 2,
+			"status": "inactive",
+			"original_launch": "2016-08-14T05:26:00.000Z",
+			"original_launch_unix": 1471152360,
+			"missions": [
+				{
+					"name": "JCSAT-16",
+					"flight": 33
+				}
+			],
+			"reuse_count": 0,
+			"rtls_attempts": 0,
+			"rtls_landings": 0,
+			"asds_attempts": 1,
+			"asds_landings": 1,
+			"water_landing": false,
+			"details": "Permanently scrapped.  "
+		},
+		{
+			"core_serial": "B1028",
+			"block": 3,
+			"status": "lost",
+			"original_launch": "2016-09-01T13:07:00.000Z",
+			"original_launch_unix": 1472735220,
+			"missions": [
+				{
+					"name": "Amos-6",
+					"flight": 34
+				}
+			],
+			"reuse_count": 0,
+			"rtls_attempts": 0,
+			"rtls_landings": 0,
+			"asds_attempts": 0,
+			"asds_landings": 0,
+			"water_landing": false,
+			"details": "---"
+		},
+		{
+			"core_serial": "B1029",
+			"block": 3,
+			"status": "inactive",
+			"original_launch": "2017-01-14T17:54:00.000Z",
+			"original_launch_unix": 1484416440,
+			"missions": [
+				{
+					"name": "Iridium NEXT Mission 1",
+					"flight": 35
+				},
+				{
+					"name": "BulgariaSat-1",
+					"flight": 42
+				}
+			],
+			"reuse_count": 1,
+			"rtls_attempts": 0,
+			"rtls_landings": 0,
+			"asds_attempts": 2,
+			"asds_landings": 2,
+			"water_landing": false,
+			"details": "Will be given to KSC Visitors Center. "
+		},
+		{
+			"core_serial": "B1031",
+			"block": 3,
+			"status": "inactive",
+			"original_launch": "2017-02-19T14:39:00.000Z",
+			"original_launch_unix": 1487515140,
+			"missions": [
+				{
+					"name": "CRS-10",
+					"flight": 36
+				},
+				{
+					"name": "SES-11 / Echostar 105",
+					"flight": 49
+				}
+			],
+			"reuse_count": 1,
+			"rtls_attempts": 1,
+			"rtls_landings": 1,
+			"asds_attempts": 1,
+			"asds_landings": 1,
+			"water_landing": false,
+			"details": "Stored outside at McGregor, partially disassembled (missing engines). "
+		},
+		{
+			"core_serial": "B1030",
+			"block": 3,
+			"status": "lost",
+			"original_launch": "2017-03-16T06:00:00.000Z",
+			"original_launch_unix": 1489644000,
+			"missions": [
+				{
+					"name": "EchoStar 23",
+					"flight": 37
+				}
+			],
+			"reuse_count": 0,
+			"rtls_attempts": 0,
+			"rtls_landings": 0,
+			"asds_attempts": 0,
+			"asds_landings": 0,
+			"water_landing": false,
+			"details": "Stage Expended"
+		},
+		{
+			"core_serial": "B1032",
+			"block": 3,
+			"status": "lost",
+			"original_launch": "2017-05-01T11:15:00.000Z",
+			"original_launch_unix": 1493637300,
+			"missions": [
+				{
+					"name": "NROL-76",
+					"flight": 39
+				},
+				{
+					"name": "SES-16 / GovSat-1",
+					"flight": 54
+				}
+			],
+			"reuse_count": 1,
+			"rtls_attempts": 1,
+			"rtls_landings": 1,
+			"asds_attempts": 0,
+			"asds_landings": 0,
+			"water_landing": true,
+			"details": "Survived water landing, SpaceX couldn't tug it back to port, so they hired a company to destroy it.  "
+		},
+		{
+			"core_serial": "B1034",
+			"block": 3,
+			"status": "lost",
+			"original_launch": "2017-05-15T23:21:00.000Z",
+			"original_launch_unix": 1494890460,
+			"missions": [
+				{
+					"name": "Inmarsat-5 F4",
+					"flight": 40
+				}
+			],
+			"reuse_count": 0,
+			"rtls_attempts": 0,
+			"rtls_landings": 0,
+			"asds_attempts": 0,
+			"asds_landings": 0,
+			"water_landing": false,
+			"details": "Stage Expended"
+		},
+		{
+			"core_serial": "B1035",
+			"block": 3,
+			"status": "inactive",
+			"original_launch": "2017-06-03T21:07:00.000Z",
+			"original_launch_unix": 1496524020,
+			"missions": [
+				{
+					"name": "CRS-11",
+					"flight": 41
+				},
+				{
+					"name": "CRS-13",
+					"flight": 51
+				}
+			],
+			"reuse_count": 1,
+			"rtls_attempts": 2,
+			"rtls_landings": 2,
+			"asds_attempts": 0,
+			"asds_landings": 0,
+			"water_landing": false,
+			"details": "Retired; permanently displayed at Space Center Houston. "
+		},
+		{
+			"core_serial": "B1036",
+			"block": 3,
+			"status": "lost",
+			"original_launch": "2017-06-25T20:25:00.000Z",
+			"original_launch_unix": 1498422300,
+			"missions": [
+				{
+					"name": "Iridium NEXT Mission 2",
+					"flight": 43
+				},
+				{
+					"name": "Iridium NEXT Mission 4",
+					"flight": 52
+				}
+			],
+			"reuse_count": 1,
+			"rtls_attempts": 0,
+			"rtls_landings": 0,
+			"asds_attempts": 1,
+			"asds_landings": 1,
+			"water_landing": true,
+			"details": "Broke Up After Successful Water Landing"
+		},
+		{
+			"core_serial": "B1037",
+			"block": 3,
+			"status": "lost",
+			"original_launch": "2017-07-05T23:35:00.000Z",
+			"original_launch_unix": 1499297700,
+			"missions": [
+				{
+					"name": "Intelsat 35e",
+					"flight": 44
+				}
+			],
+			"reuse_count": 0,
+			"rtls_attempts": 0,
+			"rtls_landings": 0,
+			"asds_attempts": 0,
+			"asds_landings": 0,
+			"water_landing": false,
+			"details": "Stage Expended"
+		},
+		{
+			"core_serial": "B1039",
+			"block": 4,
+			"status": "lost",
+			"original_launch": "2017-08-14T16:31:00.000Z",
+			"original_launch_unix": 1502728260,
+			"missions": [
+				{
+					"name": "CRS-12",
+					"flight": 45
+				},
+				{
+					"name": "CRS-14",
+					"flight": 59
+				}
+			],
+			"reuse_count": 1,
+			"rtls_attempts": 1,
+			"rtls_landings": 1,
+			"asds_attempts": 0,
+			"asds_landings": 0,
+			"water_landing": false,
+			"details": "Stage Expended"
+		},
+		{
+			"core_serial": "B1038",
+			"block": 3,
+			"status": "lost",
+			"original_launch": "2017-08-24T18:50:00.000Z",
+			"original_launch_unix": 1503600600,
+			"missions": [
+				{
+					"name": "FormoSat-5",
+					"flight": 46
+				},
+				{
+					"name": "Paz / Starlink Demo",
+					"flight": 56
+				}
+			],
+			"reuse_count": 1,
+			"rtls_attempts": 0,
+			"rtls_landings": 0,
+			"asds_attempts": 1,
+			"asds_landings": 1,
+			"water_landing": false,
+			"details": "Stage Expended"
+		},
+		{
+			"core_serial": "B1040",
+			"block": 4,
+			"status": "lost",
+			"original_launch": "2017-09-07T13:50:00.000Z",
+			"original_launch_unix": 1504792200,
+			"missions": [
+				{
+					"name": "Boeing X-37B OTV-5",
+					"flight": 47
+				},
+				{
+					"name": "SES-12",
+					"flight": 63
+				}
+			],
+			"reuse_count": 1,
+			"rtls_attempts": 1,
+			"rtls_landings": 1,
+			"asds_attempts": 0,
+			"asds_landings": 0,
+			"water_landing": false,
+			"details": "Stage Expended"
+		},
+		{
+			"core_serial": "B1041",
+			"block": 4,
+			"status": "lost",
+			"original_launch": "2017-10-09T12:37:00.000Z",
+			"original_launch_unix": 1507552620,
+			"missions": [
+				{
+					"name": "Iridium NEXT Mission 3",
+					"flight": 48
+				},
+				{
+					"name": "Iridium NEXT Mission 5",
+					"flight": 58
+				}
+			],
+			"reuse_count": 1,
+			"rtls_attempts": 0,
+			"rtls_landings": 0,
+			"asds_attempts": 1,
+			"asds_landings": 1,
+			"water_landing": false,
+			"details": "Stage Expended"
+		},
+		{
+			"core_serial": "B1042",
+			"block": 4,
+			"status": "inactive",
+			"original_launch": "2017-10-30T19:34:00.000Z",
+			"original_launch_unix": 1509392040,
+			"missions": [
+				{
+					"name": "KoreaSat 5A",
+					"flight": 50
+				}
+			],
+			"reuse_count": 0,
+			"rtls_attempts": 0,
+			"rtls_landings": 0,
+			"asds_attempts": 1,
+			"asds_landings": 1,
+			"water_landing": false,
+			"details": "Retired. "
+		},
+		{
+			"core_serial": "B1043",
+			"block": 4,
+			"status": "lost",
+			"original_launch": "2018-01-08T01:00:00.000Z",
+			"original_launch_unix": 1515373200,
+			"missions": [
+				{
+					"name": "ZUMA",
+					"flight": 53
+				},
+				{
+					"name": "Iridium NEXT Mission 6",
+					"flight": 62
+				}
+			],
+			"reuse_count": 1,
+			"rtls_attempts": 1,
+			"rtls_landings": 1,
+			"asds_attempts": 0,
+			"asds_landings": 0,
+			"water_landing": false,
+			"details": "Stage Expended"
+		},
+		{
+			"core_serial": "B1033",
+			"block": 3,
+			"status": "lost",
+			"original_launch": "2018-02-06T20:45:00.000Z",
+			"original_launch_unix": 1517949900,
+			"missions": [
+				{
+					"name": "Falcon Heavy Test Flight",
+					"flight": 55
+				}
+			],
+			"reuse_count": 0,
+			"rtls_attempts": 0,
+			"rtls_landings": 0,
+			"asds_attempts": 1,
+			"asds_landings": 0,
+			"water_landing": false,
+			"details": "Two of the outer engines didn't re-ignite for the landing burn, ran out of TEA/TEB igniters. "
+		},
+		{
+			"core_serial": "B1044",
+			"block": 4,
+			"status": "lost",
+			"original_launch": "2018-03-06T05:33:00.000Z",
+			"original_launch_unix": 1520314380,
+			"missions": [
+				{
+					"name": "Hispasat 30W-6",
+					"flight": 57
+				}
+			],
+			"reuse_count": 0,
+			"rtls_attempts": 0,
+			"rtls_landings": 0,
+			"asds_attempts": 0,
+			"asds_landings": 0,
+			"water_landing": false,
+			"details": "Stage Expended"
+		},
+		{
+			"core_serial": "B1045",
+			"block": 4,
+			"status": "lost",
+			"original_launch": "2018-04-18T22:51:00.000Z",
+			"original_launch_unix": 1524091860,
+			"missions": [
+				{
+					"name": "TESS",
+					"flight": 60
+				},
+				{
+					"name": "CRS-15",
+					"flight": 64
+				}
+			],
+			"reuse_count": 1,
+			"rtls_attempts": 0,
+			"rtls_landings": 0,
+			"asds_attempts": 1,
+			"asds_landings": 1,
+			"water_landing": false,
+			"details": "Stage Expended"
+		},
+		{
+			"core_serial": "B1046",
+			"block": 5,
+			"status": "lost",
+			"original_launch": "2018-05-11T20:14:00.000Z",
+			"original_launch_unix": 1526069640,
+			"missions": [
+				{
+					"name": "Bangabandhu-1",
+					"flight": 61
+				},
+				{
+					"name": "Merah Putih",
+					"flight": 67
+				},
+				{
+					"name": "SSO-A",
+					"flight": 71
+				},
+				{
+					"name": "Crew Dragon In Flight Abort Test",
+					"flight": 88
+				}
+			],
+			"reuse_count": 3,
+			"rtls_attempts": 0,
+			"rtls_landings": 0,
+			"asds_attempts": 3,
+			"asds_landings": 3,
+			"water_landing": false,
+			"details": "Stage Expended"
+		},
+		{
+			"core_serial": "B1047",
+			"block": 5,
+			"status": "lost",
+			"original_launch": "2018-07-22T05:50:00.000Z",
+			"original_launch_unix": 1532238600,
+			"missions": [
+				{
+					"name": "Telstar 19V",
+					"flight": 65
+				},
+				{
+					"name": "Es’hail 2",
+					"flight": 70
+				},
+				{
+					"name": "Amos-17",
+					"flight": 83
+				}
+			],
+			"reuse_count": 2,
+			"rtls_attempts": 0,
+			"rtls_landings": 0,
+			"asds_attempts": 2,
+			"asds_landings": 2,
+			"water_landing": false,
+			"details": "Stage Expended"
+		},
+		{
+			"core_serial": "B1048",
+			"block": 5,
+			"status": "lost",
+			"original_launch": "2018-07-25T11:39:26.000Z",
+			"original_launch_unix": 1532518766,
+			"missions": [
+				{
+					"name": "Iridium NEXT Mission 7",
+					"flight": 66
+				},
+				{
+					"name": "SAOCOM 1A",
+					"flight": 69
+				},
+				{
+					"name": "Nusantara Satu (PSN-6) / S5 / Beresheet",
+					"flight": 75
+				},
+				{
+					"name": "Starlink 1",
+					"flight": 84
+				},
+				{
+					"name": "Starlink 5",
+					"flight": 92
+				}
+			],
+			"reuse_count": 4,
+			"rtls_attempts": 1,
+			"rtls_landings": 1,
+			"asds_attempts": 4,
+			"asds_landings": 3,
+			"water_landing": false,
+			"details": "Landing burn not performed after premature engine shutdown during ascent"
+		},
+		{
+			"core_serial": "B1049",
+			"block": 5,
+			"status": "unknown",
+			"original_launch": "2018-09-10T04:45:00.000Z",
+			"original_launch_unix": 1536554700,
+			"missions": [
+				{
+					"name": "Telstar 18V",
+					"flight": 68
+				},
+				{
+					"name": "Iridium NEXT Mission 8",
+					"flight": 74
+				},
+				{
+					"name": "Starlink v0.9",
+					"flight": 79
+				},
+				{
+					"name": "Starlink 2",
+					"flight": 87
+				},
+				{
+					"name": "Starlink 7",
+					"flight": 95
+				},
+				{
+					"name": "Starlink-10 (v1.0) & SkySat 19-21",
+					"flight": 100
+				},
+				{
+					"name": "Starlink-15 (v1.0)",
+					"flight": 109
+				}
+			],
+			"reuse_count": 6,
+			"rtls_attempts": 0,
+			"rtls_landings": 0,
+			"asds_attempts": 7,
+			"asds_landings": 7,
+			"water_landing": false,
+			"details": "Returning to the Cape after JRTI recovery as of Jun 10, 2020. "
+		},
+		{
+			"core_serial": "B1050",
+			"block": 5,
+			"status": "inactive",
+			"original_launch": "2018-12-05T18:16:00.000Z",
+			"original_launch_unix": 1544033760,
+			"missions": [
+				{
+					"name": "CRS-16",
+					"flight": 72
+				}
+			],
+			"reuse_count": 0,
+			"rtls_attempts": 1,
+			"rtls_landings": 0,
+			"asds_attempts": 0,
+			"asds_landings": 0,
+			"water_landing": true,
+			"details": "Towed to Port of Canaveral; cannibalized for parts to build Starhopper. "
+		},
+		{
+			"core_serial": "B1054",
+			"block": 5,
+			"status": "lost",
+			"original_launch": "2018-12-23T13:51:00.000Z",
+			"original_launch_unix": 1545573060,
+			"missions": [
+				{
+					"name": "GPS III SV01",
+					"flight": 73
+				}
+			],
+			"reuse_count": 0,
+			"rtls_attempts": 0,
+			"rtls_landings": 0,
+			"asds_attempts": 0,
+			"asds_landings": 0,
+			"water_landing": false,
+			"details": "Stage Expended"
+		},
+		{
+			"core_serial": "B1051",
+			"block": 5,
+			"status": "active",
+			"original_launch": "2019-03-02T07:45:00.000Z",
+			"original_launch_unix": 1551512700,
+			"missions": [
+				{
+					"name": "CCtCap Demo Mission 1",
+					"flight": 76
+				},
+				{
+					"name": "RADARSAT Constellation",
+					"flight": 80
+				},
+				{
+					"name": "Starlink 3",
+					"flight": 89
+				},
+				{
+					"name": "Starlink 6",
+					"flight": 93
+				},
+				{
+					"name": "Starlink-9 (v1.0) & BlackSky Global 5-6",
+					"flight": 99
+				},
+				{
+					"name": "Starlink-13 (v1.0)",
+					"flight": 104
+				}
+			],
+			"reuse_count": 5,
+			"rtls_attempts": 1,
+			"rtls_landings": 1,
+			"asds_attempts": 5,
+			"asds_landings": 5,
+			"water_landing": false,
+			"details": "At LC-39A awaiting launch."
+		},
+		{
+			"core_serial": "B1052",
+			"block": 5,
+			"status": "unknown",
+			"original_launch": "2019-04-11T22:35:00.000Z",
+			"original_launch_unix": 1555022100,
+			"missions": [
+				{
+					"name": "ArabSat 6A",
+					"flight": 77
+				},
+				{
+					"name": "STP-2",
+					"flight": 81
+				}
+			],
+			"reuse_count": 1,
+			"rtls_attempts": 2,
+			"rtls_landings": 2,
+			"asds_attempts": 0,
+			"asds_landings": 0,
+			"water_landing": false,
+			"details": "Landed at LZ-1 as of Jun 25, 2019. "
+		},
+		{
+			"core_serial": "B1053",
+			"block": 5,
+			"status": "unknown",
+			"original_launch": "2019-04-11T22:35:00.000Z",
+			"original_launch_unix": 1555022100,
+			"missions": [
+				{
+					"name": "ArabSat 6A",
+					"flight": 77
+				},
+				{
+					"name": "STP-2",
+					"flight": 81
+				}
+			],
+			"reuse_count": 1,
+			"rtls_attempts": 2,
+			"rtls_landings": 2,
+			"asds_attempts": 0,
+			"asds_landings": 0,
+			"water_landing": false,
+			"details": "Landed at LZ-2 as of Jun 25, 2019. "
+		},
+		{
+			"core_serial": "B1055",
+			"block": 5,
+			"status": "lost",
+			"original_launch": "2019-04-11T22:35:00.000Z",
+			"original_launch_unix": 1555022100,
+			"missions": [
+				{
+					"name": "ArabSat 6A",
+					"flight": 77
+				}
+			],
+			"reuse_count": 0,
+			"rtls_attempts": 0,
+			"rtls_landings": 0,
+			"asds_attempts": 1,
+			"asds_landings": 1,
+			"water_landing": false,
+			"details": "Toppled by rough seas and broken in two after safely landing aboard OCISLY"
+		},
+		{
+			"core_serial": "B1056",
+			"block": 5,
+			"status": "lost",
+			"original_launch": "2019-05-04T06:48:00.000Z",
+			"original_launch_unix": 1556952480,
+			"missions": [
+				{
+					"name": "CRS-17",
+					"flight": 78
+				},
+				{
+					"name": "CRS-18",
+					"flight": 82
+				},
+				{
+					"name": "JCSat 18 / Kacific 1",
+					"flight": 86
+				},
+				{
+					"name": "Starlink 4",
+					"flight": 90
+				}
+			],
+			"reuse_count": 3,
+			"rtls_attempts": 1,
+			"rtls_landings": 1,
+			"asds_attempts": 3,
+			"asds_landings": 2,
+			"water_landing": false,
+			"details": "Missed the droneship and made successful water landing; apparently scuttled at sea afterward. "
+		},
+		{
+			"core_serial": "B1057",
+			"block": 5,
+			"status": "lost",
+			"original_launch": "2019-06-25T03:30:00.000Z",
+			"original_launch_unix": 1561433400,
+			"missions": [
+				{
+					"name": "STP-2",
+					"flight": 81
+				}
+			],
+			"reuse_count": 0,
+			"rtls_attempts": 0,
+			"rtls_landings": 0,
+			"asds_attempts": 1,
+			"asds_landings": 0,
+			"water_landing": false,
+			"details": "Exploded upon ocean impact a safe distance from OCISLY"
+		},
+		{
+			"core_serial": "B1059",
+			"block": 5,
+			"status": "unknown",
+			"original_launch": "2019-12-05T17:29:23.000Z",
+			"original_launch_unix": 1575566963,
+			"missions": [
+				{
+					"name": "CRS-19",
+					"flight": 85
+				},
+				{
+					"name": "CRS-20",
+					"flight": 91
+				},
+				{
+					"name": "Starlink-8 & SkySat 16-18",
+					"flight": 96
+				},
+				{
+					"name": "SAOCOM 1B, GNOMES-1, Tyvak-0172",
+					"flight": 101
+				}
+			],
+			"reuse_count": 3,
+			"rtls_attempts": 2,
+			"rtls_landings": 2,
+			"asds_attempts": 2,
+			"asds_landings": 2,
+			"water_landing": false,
+			"details": "Landed on OCISLY as of Jun 13, 2020 "
+		},
+		{
+			"core_serial": "B1058",
+			"block": 5,
+			"status": "unknown",
+			"original_launch": "2020-05-30T19:22:00.000Z",
+			"original_launch_unix": 1590866520,
+			"missions": [
+				{
+					"name": "CCtCap Demo Mission 2",
+					"flight": 94
+				},
+				{
+					"name": "ANASIS-II",
+					"flight": 98
+				},
+				{
+					"name": "Starlink-12 (v1.0)",
+					"flight": 103
+				}
+			],
+			"reuse_count": 2,
+			"rtls_attempts": 0,
+			"rtls_landings": 0,
+			"asds_attempts": 2,
+			"asds_landings": 2,
+			"water_landing": false,
+			"details": "Landed on JRTI as of Jul 20, 2020 "
+		},
+		{
+			"core_serial": "B1060",
+			"block": 5,
+			"status": "unknown",
+			"original_launch": "2020-06-30T19:55:00.000Z",
+			"original_launch_unix": 1593546900,
+			"missions": [
+				{
+					"name": "GPS III SV03 (Columbus)",
+					"flight": 97
+				},
+				{
+					"name": "Starlink-11 (v1.0)",
+					"flight": 102
+				},
+				{
+					"name": "Starlink-14 (v1.0)",
+					"flight": 105
+				}
+			],
+			"reuse_count": 2,
+			"rtls_attempts": 0,
+			"rtls_landings": 0,
+			"asds_attempts": 3,
+			"asds_landings": 3,
+			"water_landing": false,
+			"details": "Landed on JRTI as of Jun 30, 2020. "
+		},
+		{
+			"core_serial": "B1062",
+			"block": 5,
+			"status": null,
+			"original_launch": "2020-11-05T23:24:00.000Z",
+			"original_launch_unix": 1604618640,
+			"missions": [
+				{
+					"name": "GPS III SV04 (Sacagawea)",
+					"flight": 106
+				}
+			],
+			"reuse_count": 0,
+			"rtls_attempts": 0,
+			"rtls_landings": 0,
+			"asds_attempts": 1,
+			"asds_landings": 1,
+			"water_landing": false,
+			"details": null
+		},
+		{
+			"core_serial": "B1061",
+			"block": 5,
+			"status": null,
+			"original_launch": "2020-11-16T00:27:00.000Z",
+			"original_launch_unix": 1605486420,
+			"missions": [
+				{
+					"name": "Crew-1",
+					"flight": 107
+				}
+			],
+			"reuse_count": 0,
+			"rtls_attempts": 0,
+			"rtls_landings": 0,
+			"asds_attempts": 1,
+			"asds_landings": 1,
+			"water_landing": false,
+			"details": null
+		},
+		{
+			"core_serial": "B1063",
+			"block": 5,
+			"status": null,
+			"original_launch": "2020-11-21T17:17:00.000Z",
+			"original_launch_unix": 1605979020,
+			"missions": [
+				{
+					"name": "Sentinel-6 Michael Freilich",
+					"flight": 108
+				}
+			],
+			"reuse_count": 0,
+			"rtls_attempts": 1,
+			"rtls_landings": 1,
+			"asds_attempts": 0,
+			"asds_landings": 0,
+			"water_landing": false,
+			"details": null
+		}
+	],
+	"landpads": [
+		{
+			"id": "LZ-1",
+			"full_name": "Landing Zone 1",
+			"status": "active",
+			"location": {
+				"name": "Cape Canaveral",
+				"region": "Florida",
+				"latitude": 28.485833,
+				"longitude": -80.544444
+			},
+			"landing_type": "RTLS",
+			"attempted_landings": 16,
+			"successful_landings": 15,
+			"wikipedia": "https://en.wikipedia.org/wiki/Landing_Zones_1_and_2",
+			"details": "SpaceX's first east coast landing pad is Landing Zone 1, where the historic first Falcon 9 landing occurred in December 2015. LC-13 was originally used as a launch pad for early Atlas missiles and rockets from Lockheed Martin. LC-1 was later expanded to include Landing Zone 2 for side booster RTLS Falcon Heavy missions, and it was first used in February 2018 for that purpose."
+		},
+		{
+			"id": "LZ-2",
+			"full_name": "Landing Zone 2",
+			"status": "active",
+			"location": {
+				"name": "Cape Canaveral",
+				"region": "Florida",
+				"latitude": 28.485833,
+				"longitude": -80.544444
+			},
+			"landing_type": "RTLS",
+			"attempted_landings": 3,
+			"successful_landings": 3,
+			"wikipedia": "https://en.wikipedia.org/wiki/Landing_Zones_1_and_2",
+			"details": "SpaceX's first east coast landing pad is Landing Zone 1, where the historic first Falcon 9 landing occurred in December 2015. LC-13 was originally used as a launch pad for early Atlas missiles and rockets from Lockheed Martin. LC-1 was later expanded to include Landing Zone 2 for side booster RTLS Falcon Heavy missions, and it was first used in February 2018 for that purpose."
+		},
+		{
+			"id": "LZ-4",
+			"full_name": "Landing Zone 4",
+			"status": "active",
+			"location": {
+				"name": "Vandenberg Air Force Base",
+				"region": "California",
+				"latitude": 34.632989,
+				"longitude": -120.615167
+			},
+			"landing_type": "RTLS",
+			"attempted_landings": 3,
+			"successful_landings": 3,
+			"wikipedia": "https://en.wikipedia.org/wiki/Vandenberg_AFB_Space_Launch_Complex_4#LZ-4_landing_history",
+			"details": "SpaceX's west coast landing pad. The pad is adjacent to SLC-4E, SpaceX's west coast launch site. The pad was under construction for about a year starting in 2016. After concerns with seal mating season, this pad was first used for the SAOCOM 1A mission in October 2018. Officially referred to as LZ-4 in FCC filings."
+		},
+		{
+			"id": "OCISLY",
+			"full_name": "Of Course I Still Love You",
+			"status": "active",
+			"location": {
+				"name": "Port Canaveral",
+				"region": "Florida",
+				"latitude": 28.4104,
+				"longitude": -80.6188
+			},
+			"landing_type": "ASDS",
+			"successful_landings": 34,
+			"attempted_landings": 40,
+			"wikipedia": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship",
+			"details": "The second ASDS barge, Of Course I Still Love You (OCISLY), had been under construction in a Louisiana shipyard since early 2015 using a different hull—Marmac 304—in order to service launches on the east coast. It was built as a replacement for the first Just Read the Instructions and entered operational service for Falcon 9 Flight 19 in late June 2015. As of June 2015, its home port was Jacksonville, Florida, but after December 2015, it was transferred 160 miles (260 km) further south, at Port Canaveral. While the dimensions of the ship are nearly identical to the first ASDS, several enhancements were made including a steel blast wall erected between the aft containers and the landing deck. The ship was in place for a first-stage landing test on the CRS-7 mission, which failed on launch on 28 June 2015. On 8 April 2016 the first stage, which launched the Dragon CRS-8 spacecraft, successfully landed for the first time ever on OCISLY, which is also the first ever drone ship landing. In February 2018, the Falcon Heavy Test Flight's central core exploded upon impact next to OCISLY that damaged two of the four thrusters on the drone ship. Two thrusters were removed from the Marmac 303 barge in order to repair OCISLY."
+		},
+		{
+			"id": "JRTI-1",
+			"full_name": "Just Read The Instructions V1",
+			"status": "retired",
+			"location": {
+				"name": "Port Canaveral",
+				"region": "Florida",
+				"latitude": 28.4104,
+				"longitude": -80.6188
+			},
+			"landing_type": "ASDS",
+			"successful_landings": 0,
+			"attempted_landings": 2,
+			"wikipedia": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship",
+			"details": "The ASDS landing location for the first landing test was in the Atlantic approximately 200 miles (320 km) northeast of the launch location at Cape Canaveral, and 165 miles (266 km) southeast of Charleston, South Carolina. SpaceX's Just Read the Instructions, based on the Marmac 300 deck barge, in position for a landing test on Falcon 9 Flight 17 in April 2015. On 23 January 2015, during repairs to the ship following the unsuccessful first test, Musk announced that the ship was to be named Just Read the Instructions, with a sister ship planned for west coast launches to be named Of Course I Still Love You. On 29 January, SpaceX released a manipulated photo of the ship with the name illustrating how it would look once painted. Both ships are named after two General Contact Units, spaceships commanded by autonomous artificial intelligences, that appear in The Player of Games, a Culture novel by Iain M. Banks. The first Just Read the Instructions was retired in May 2015 after approximately six months of service in the Atlantic, and its duties were assumed by Of Course I Still Love You. The former ASDS was modified by removing the wing extensions that had extended the barge surface and the equipment (thrusters, cameras and communications gear) that had been added to refit it as an ASDS; these items were saved for future reuse."
+		},
+		{
+			"id": "JRTI",
+			"full_name": "Just Read The Instructions",
+			"status": "active",
+			"location": {
+				"name": "Port of Los Angeles",
+				"region": "California",
+				"latitude": 33.7291858,
+				"longitude": -118.262015
+			},
+			"landing_type": "ASDS",
+			"successful_landings": 11,
+			"attempted_landings": 12,
+			"wikipedia": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship",
+			"details": "The third ASDS barge, using the Marmac 303 hull, was built during 2015 in a Louisiana shipyard, and the barge transited the Panama Canal in June 2015 carrying its wing extensions as cargo on the deck because the ASDS, when complete, would be too wide to pass through the canal. The home port for the Marmac 303 is the Port of Los Angeles, at the AltaSea marine research and business campus in San Pedro's outer harbor. The landing platform and tender vessels began docking there in July 2015 in advance of the main construction of AltaSea which is scheduled for 2017. SpaceX announced that the Marmac 303 would be the second ASDS to be named Just Read the Instructions (JRtI) in January 2016, shortly before its first use as a landing platform for Falcon 9 Flight 21. On 17 January 2016, JRtI was put to first use in an attempt to recover a Falcon 9 first-stage booster from the Jason-3 mission from Vandenberg. The booster successfully landed on the deck; however, a lockout collet failed to engage on one of the legs causing the rocket to tip over, exploding on impact with the deck.[23] On January 14, 2017, SpaceX launched Falcon 9 Flight 29 from Vandenberg and landed the first stage on the JRtI that was located about 370 km (230 mi) downrange in the Pacific Ocean, making it the first successful landing in the Pacific."
+		},
+		{
+			"id": "ASOG",
+			"full_name": "A Shortfall of Gravitas",
+			"status": "under construction",
+			"location": {
+				"name": "Port Canaveral",
+				"region": "Florida",
+				"latitude": 28.4104,
+				"longitude": -80.6188
+			},
+			"landing_type": "ASDS",
+			"successful_landings": 0,
+			"attempted_landings": 0,
+			"wikipedia": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship",
+			"details": "The fourth ASDS barge was announced to be under construction in February 2018 and it will become the second active east coast-based ASDS. It will be homeported at Port Canaveral. This future simultaneously usable ASDS, along with OCISLY, is called A Shortfall of Gravitas (ASoG) and like the rest of the fleet, its naming is based on names used in the Culture series. The droneship is expected to be operational in mid-2019."
+		}
+	]
+}
